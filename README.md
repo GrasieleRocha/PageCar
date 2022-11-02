@@ -15,6 +15,6 @@ App no ar: https://pagecar.netlify.app/.
 Tutorial: https://www.youtube.com/watch?v=WzO5QlkjVLA
 
 
-## Developer.
+## Developer
 
 [<img src="https://avatars.githubusercontent.com/u/104076058?v=4" width=115><br><sub>Grasiele Rocha</sub>](https://github.com/GrasieleRocha) 

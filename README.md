@@ -11,7 +11,7 @@ Page of cars, perfecting Html and CSS, project replica car sales page.
 ![WhatsApp Image 2022-11-16 at 16 47 37 (1)](https://user-images.githubusercontent.com/104076058/202279591-4c7d89c8-c190-49da-9deb-5f1e7646db69.jpeg)
 
 
-## Tecnologies used...
+## Tecnologies used
 ### languages
 - `HTML`
 - `CSS`

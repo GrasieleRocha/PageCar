@@ -16,7 +16,7 @@ Page of cars, perfecting Html and CSS, project replica car sales page.
 - `HTML`
 - `CSS`
 
-### Tools
+### Tools..
 - `VS Code`
 - `GitHub`
 - `Netlify`

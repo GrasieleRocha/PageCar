@@ -21,7 +21,7 @@ Page of cars, perfecting Html and CSS, project replica car sales page.
 - `GitHub`
 - `Netlify`
 
-## Link to access the project.
+## Link to access the project...
 App no ar: https://pagecar.netlify.app/.
 
 ## Inspiration for the project

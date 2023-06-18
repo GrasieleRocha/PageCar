@@ -1,6 +1,6 @@
 # PageCar
 
-![in Development](https://img.shields.io/badge/in%20-%20Development-yellow) 
+![in Development](https://img.shields.io/badge/in%20-%20Development-yellow) .
 
 
 Page of cars, perfecting Html and CSS, project replica car sales page.
